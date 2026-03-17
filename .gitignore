@@ -19,9 +19,8 @@ htmlcov/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb_checkpoints
 
-# Environment variables
+# Environment variables (never commit API keys!)
 .env
 .env.local
 
@@ -33,28 +32,15 @@ htmlcov/
 *~
 .DS_Store
 
-# Data files (adjust based on your needs)
-data/raw/
-data/processed/
-*.csv
-*.parquet
-*.pkl
-*.joblib
-
-# Model artifacts
-models/
-*.h5
-*.pt
-*.pth
-checkpoints/
+# API cache (no need to commit cached API responses)
+.cache/
+.cache.sqlite
 
 # Logs
 logs/
 *.log
 
-# MLflow (if you use it later)
-mlruns/
-mlartifacts/
-
-# DVC (if you use it later)
-.dvc/
+# DO NOT IGNORE - These are your pipeline outputs!
+# weather_forecast.db  <- We WANT to track this
+# weather_poem.txt     <- We WANT to track this
+# docs/index.html      <- We WANT to track this
