@@ -1,0 +1,60 @@
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files (adjust based on your needs)
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.pkl
+*.joblib
+
+# Model artifacts
+models/
+*.h5
+*.pt
+*.pth
+checkpoints/
+
+# Logs
+logs/
+*.log
+
+# MLflow (if you use it later)
+mlruns/
+mlartifacts/
+
+# DVC (if you use it later)
+.dvc/
