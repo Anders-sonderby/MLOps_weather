@@ -50,11 +50,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p data output/poems
-          git add data output
+          mkdir -p data output/poems docs
+          git add data output docs
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "🤖 Update weather data and poem - $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "🤖 Update weather data, poem, and GitHub Pages - $(date +'%Y-%m-%d %H:%M')"
             git push
           fi

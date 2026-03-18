@@ -5,6 +5,7 @@ Coordinates the entire weather forecast data pipeline
 
 from fetch import run_fetch_pipeline
 from poem import run_poem_pipeline
+from generate_page import update_index_html
 from config import DATABASE_NAME, POEM_OUTPUT_FILE
 import sys
 
@@ -17,6 +18,7 @@ def main():
     print("  1. Fetch weather data from Open-Meteo API")
     print("  2. Store data in SQLite database")
     print("  3. Generate a bilingual weather poem using Groq AI")
+    print("  4. Update GitHub Pages with latest data")
     print("="*60 + "\n")
     
     try:
@@ -28,6 +30,10 @@ def main():
         print("\nSTEP 2: Generating weather poem...")
         run_poem_pipeline()
         
+        # Step 3: Update GitHub Pages
+        print("\nSTEP 3: Updating GitHub Pages...")
+        update_index_html()
+        
         # Success summary
         print("\n" + "="*60)
         print("✅ PIPELINE COMPLETED SUCCESSFULLY!")
@@ -36,10 +42,12 @@ def main():
         print(f"   • {DATABASE_NAME} - SQLite database with weather data")
         print(f"   • {POEM_OUTPUT_FILE} - Latest bilingual poem")
         print(f"   • output/poems/poem_YYYY-MM-DD.txt - Dated poem archives")
+        print(f"   • docs/index.html - GitHub Pages website")
         print("\n💡 Next steps:")
         print(f"   • View database: sqlite3 {DATABASE_NAME}")
         print(f"   • Read latest poem: cat {POEM_OUTPUT_FILE}")
         print("   • View all poems: ls output/poems/")
+        print("   • Open website: open docs/index.html")
         print("   • Re-run: python main.py")
         print("="*60 + "\n")
         
