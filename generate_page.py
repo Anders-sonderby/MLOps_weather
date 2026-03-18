@@ -4,8 +4,9 @@ Reads weather data from database and updates docs/index.html
 """
 
 import sqlite3
+import shutil
 from datetime import datetime
-from config import DATABASE_NAME, WEATHER_CODE_DESCRIPTIONS
+from config import DATABASE_NAME, WEATHER_CODE_DESCRIPTIONS, POEM_OUTPUT_FILE
 
 def get_weather_description(weather_code):
     """Convert weather code to description"""
@@ -79,6 +80,13 @@ def update_index_html():
     if not weather_data:
         print("⚠️  No weather data found in database")
         return
+    
+    # Copy poem to docs folder for GitHub Pages access
+    try:
+        shutil.copy(POEM_OUTPUT_FILE, 'docs/latest_poem.txt')
+        print(f"✓ Copied poem to docs/latest_poem.txt")
+    except Exception as e:
+        print(f"⚠️  Warning: Could not copy poem: {e}")
     
     # Read the template
     with open('docs/index.html', 'r', encoding='utf-8') as f:
