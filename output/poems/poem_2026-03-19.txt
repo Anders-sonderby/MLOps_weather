@@ -1,26 +1,24 @@
-Generated at: 2026-03-18 12:44:20.928027
+Generated at: 2026-03-18 12:55:47.322318
 Forecast date: 2026-03-19
 
-English:
-Tomorrow's skies, a varied tale,
-Aalborg's drizzle, a gentle hail,
-Nice shines bright, with clear blue above,
-A haven from the clouds, a labor of love.
-Silkeborg's overcast, a somber grey,
-Aalborg's chill, begins to fade away,
-Nice's warmth calls, with a gentle breeze,
-A haven from the north, where hearts can seize.
-The clear sky's charm, in Nice we find,
-A perfect day, to leave the rest behind.
+Here's a short poem in English and Danish:
 
-Dansk:
-I morgendagens himmel, en varieret fortælling,
-Aalborgs lette støvregn, en blid byge,
-Nice skinner klart, med blå himmel over,
-En havn fra skyerne, et kærlighedsarbejde.
-Silkeborgs tætte skyer, en dyster grå,
-Aalborgs kulde, begynder at forsvinde,
-Nice's varme kalder, med en blid brise,
-En havn fra nord, hvor hjerte kan gribe.
-Den klare himmels charme, i Nice finder vi,
-En perfekt dag, til at lade resten blive tilbage.
+English:
+Tomorrow's forecast tells a tale,
+Aalborg's drizzle, a gloomy veil,
+Nice shines bright, with clear blue sky,
+A haven from the clouds that pass by.
+Silkeborg's overcast, a gentle hue,
+But Nice's warm breeze, is beckoning you,
+To leave the grey, and find the light,
+And dance in Nice, on this sunny night.
+
+Danish:
+I morgen bliver vejret til en sang,
+Aalborgs dug, en skygge overgang,
+Nice skinner klart, med blå himmel bred,
+En havn fra skyerne, der driver forbi hed.
+Silkeborgs overskyet, en blid farve ton,
+Men Nices varme vind, kalder på dig til at gå,
+Lad gråheden bag, og find lyset frem,
+Og dans i Nice, på denne solrige nat frem.
