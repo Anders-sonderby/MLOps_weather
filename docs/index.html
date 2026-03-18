@@ -173,10 +173,11 @@
             <div class="section">
                 <h2>📊 Tomorrow's Forecast</h2>
                 <div id="weather-data" class="weather-cards">
+                    
                     <div class="weather-card">
                         <h3>📍 Aalborg</h3>
                         <div class="weather-info">
-                            <p><strong>Temperature:</strong> <span>2.7°C - 10.3°C</span></p>
+                            <p><strong>Temperature:</strong> <span>2.9°C - 10.5°C</span></p>
                             <p><strong>Conditions:</strong> <span>Light Drizzle</span></p>
                             <p><strong>Precipitation:</strong> <span>0.1 mm</span></p>
                             <p><strong>Wind:</strong> <span>14.8 km/h</span></p>
@@ -194,69 +195,13 @@
                     <div class="weather-card">
                         <h3>📍 Silkeborg</h3>
                         <div class="weather-info">
-                            <p><strong>Temperature:</strong> <span>3.4°C - 11.1°C</span></p>
+                            <p><strong>Temperature:</strong> <span>3.3°C - 11.1°C</span></p>
                             <p><strong>Conditions:</strong> <span>Overcast</span></p>
                             <p><strong>Precipitation:</strong> <span>0.0 mm</span></p>
                             <p><strong>Wind:</strong> <span>11.9 km/h</span></p>
                         </div>
-                    </div></div>
                     </div>
-                    <div class="weather-card">
-                        <h3>📍 Nice</h3>
-                        <div class="weather-info">
-                            <p><strong>Temperature:</strong> <span>9.4°C - 17.7°C</span></p>
-                            <p><strong>Conditions:</strong> <span>Clear Sky</span></p>
-                            <p><strong>Precipitation:</strong> <span>0.0 mm</span></p>
-                            <p><strong>Wind:</strong> <span>24.0 km/h</span></p>
-                        </div>
-                    </div>
-                    <div class="weather-card">
-                        <h3>📍 Silkeborg</h3>
-                        <div class="weather-info">
-                            <p><strong>Temperature:</strong> <span>3.4°C - 11.1°C</span></p>
-                            <p><strong>Conditions:</strong> <span>Overcast</span></p>
-                            <p><strong>Precipitation:</strong> <span>0.0 mm</span></p>
-                            <p><strong>Wind:</strong> <span>12.2 km/h</span></p>
-                        </div>
-                    </div></div>
-                    </div>
-                    <div class="weather-card">
-                        <h3>📍 Nice</h3>
-                        <div class="weather-info">
-                            <p><strong>Temperature:</strong> <span>9.4°C - 17.7°C</span></p>
-                            <p><strong>Conditions:</strong> <span>Clear Sky</span></p>
-                            <p><strong>Precipitation:</strong> <span>0.0 mm</span></p>
-                            <p><strong>Wind:</strong> <span>24.0 km/h</span></p>
-                        </div>
-                    </div>
-                    <div class="weather-card">
-                        <h3>📍 Silkeborg</h3>
-                        <div class="weather-info">
-                            <p><strong>Temperature:</strong> <span>3.4°C - 11.1°C</span></p>
-                            <p><strong>Conditions:</strong> <span>Overcast</span></p>
-                            <p><strong>Precipitation:</strong> <span>0.0 mm</span></p>
-                            <p><strong>Wind:</strong> <span>12.2 km/h</span></p>
-                        </div>
-                    </div></div>
-                    </div>
-                    <div class="weather-card">
-                        <h3>📍 Nice</h3>
-                        <div class="weather-info">
-                            <p><strong>Temperature:</strong> <span>9.4°C - 17.7°C</span></p>
-                            <p><strong>Conditions:</strong> <span>Clear Sky</span></p>
-                            <p><strong>Precipitation:</strong> <span>0.0 mm</span></p>
-                            <p><strong>Wind:</strong> <span>24.0 km/h</span></p>
-                        </div>
-                    </div>
-                    <div class="weather-card">
-                        <h3>📍 Silkeborg</h3>
-                        <div class="weather-info">
-                            <p><strong>Temperature:</strong> <span>3.4°C - 11.1°C</span></p>
-                            <p><strong>Conditions:</strong> <span>Overcast</span></p>
-                            <p><strong>Precipitation:</strong> <span>0.0 mm</span></p>
-                            <p><strong>Wind:</strong> <span>11.9 km/h</span></p>
-                        </div>
-                    </div></div>
+                </div>
             </div>
             
             <!-- Poem Section -->
@@ -292,48 +237,6 @@
             }
         }
         
-        // Fetch and display weather data from database
-        async function loadWeatherData() {
-            try {
-                // For now, we'll show placeholder data
-                // In generate_page.py, we'll inject actual data
-                const weatherHTML = `
-                    <div class="weather-card">
-                        <h3>📍 Aalborg</h3>
-                        <div class="weather-info">
-                            <p><strong>Temperature:</strong> <span id="aalborg-temp">--°C</span></p>
-                            <p><strong>Conditions:</strong> <span id="aalborg-weather">--</span></p>
-                            <p><strong>Precipitation:</strong> <span id="aalborg-precip">-- mm</span></p>
-                            <p><strong>Wind:</strong> <span id="aalborg-wind">-- km/h</span></p>
-                        </div>
-                    </div>
-                    <div class="weather-card">
-                        <h3>📍 Silkeborg</h3>
-                        <div class="weather-info">
-                            <p><strong>Temperature:</strong> <span id="silkeborg-temp">--°C</span></p>
-                            <p><strong>Conditions:</strong> <span id="silkeborg-weather">--</span></p>
-                            <p><strong>Precipitation:</strong> <span id="silkeborg-precip">-- mm</span></p>
-                            <p><strong>Wind:</strong> <span id="silkeborg-wind">-- km/h</span></p>
-                        </div>
-                    </div>
-                    <div class="weather-card">
-                        <h3>📍 Nice</h3>
-                        <div class="weather-info">
-                            <p><strong>Temperature:</strong> <span id="nice-temp">--°C</span></p>
-                            <p><strong>Conditions:</strong> <span id="nice-weather">--</span></p>
-                            <p><strong>Precipitation:</strong> <span id="nice-precip">-- mm</span></p>
-                            <p><strong>Wind:</strong> <span id="nice-wind">-- km/h</span></p>
-                        </div>
-                    </div>
-                `;
-                document.getElementById('weather-data').innerHTML = weatherHTML;
-            } catch (error) {
-                document.getElementById('weather-data').innerHTML = 
-                    '<div class="error">Error loading weather data.</div>';
-                console.error('Error loading weather data:', error);
-            }
-        }
-        
         // Set last updated time
         function setLastUpdated() {
             const now = new Date().toLocaleString('da-DK');
@@ -344,7 +247,6 @@
         // Load everything when page loads
         window.addEventListener('DOMContentLoaded', () => {
             loadPoem();
-            loadWeatherData();
             setLastUpdated();
         });
     </script>
