@@ -34,6 +34,7 @@ htmlcov/
 
 # API cache (no need to commit cached API responses)
 .cache/
+.cache.sqlite
 
 # Logs
 logs/
