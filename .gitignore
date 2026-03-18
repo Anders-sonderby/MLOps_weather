@@ -34,13 +34,12 @@ htmlcov/
 
 # API cache (no need to commit cached API responses)
 .cache/
-.cache.sqlite
 
 # Logs
 logs/
 *.log
 
 # DO NOT IGNORE - These are your pipeline outputs!
-# weather_forecast.db  <- We WANT to track this
-# weather_poem.txt     <- We WANT to track this
-# docs/index.html      <- We WANT to track this
+# data/weather_forecast.db     <- We WANT to track this
+# output/poems/*.txt            <- We WANT to track these
+# docs/index.html               <- We WANT to track this

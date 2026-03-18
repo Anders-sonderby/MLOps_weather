@@ -13,6 +13,7 @@ from config import (
     GROQ_TEMPERATURE,
     GROQ_MAX_TOKENS,
     POEM_OUTPUT_FILE,
+    POEM_ARCHIVE_DIR,
     WEATHER_CODE_DESCRIPTIONS
 )
 
@@ -120,13 +121,26 @@ Make it lyrical and fun!"""
         print(poem)
         print("="*60 + "\n")
         
-        # Save poem to file
+        # Get forecast date for archive filename
+        forecast_date = weather_data[0]['date']
+        
+        # Save as latest poem
         with open(POEM_OUTPUT_FILE, 'w', encoding='utf-8') as f:
             f.write(f"Generated at: {datetime.now()}\n")
-            f.write(f"Forecast date: {weather_data[0]['date']}\n\n")
+            f.write(f"Forecast date: {forecast_date}\n\n")
             f.write(poem)
         
         print(f"✓ Poem saved to {POEM_OUTPUT_FILE}")
+        
+        # Also save dated archive
+        archive_filename = f"{POEM_ARCHIVE_DIR}poem_{forecast_date}.txt"
+        with open(archive_filename, 'w', encoding='utf-8') as f:
+            f.write(f"Generated at: {datetime.now()}\n")
+            f.write(f"Forecast date: {forecast_date}\n\n")
+            f.write(poem)
+        
+        print(f"✓ Archived to {archive_filename}")
+        
         return poem
         
     except Exception as e:
@@ -150,7 +164,8 @@ def run_poem_pipeline():
     
     if poem:
         print("\n✅ Poem generation completed!")
-        print(f"📝 Poem saved to: {POEM_OUTPUT_FILE}\n")
+        print(f"📝 Latest poem: {POEM_OUTPUT_FILE}")
+        print(f"📚 Archived poems: {POEM_ARCHIVE_DIR}\n")
 
 if __name__ == "__main__":
     run_poem_pipeline()

@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Database Configuration
-DATABASE_NAME = 'weather_forecast.db'
+DATABASE_NAME = 'data/weather_forecast.db'
 
 # Locations to track
 LOCATIONS = [
@@ -42,7 +42,8 @@ GROQ_TEMPERATURE = 0.8
 GROQ_MAX_TOKENS = 500
 
 # Output Configuration
-POEM_OUTPUT_FILE = 'weather_poem.txt'
+POEM_OUTPUT_FILE = 'output/poems/latest.txt'
+POEM_ARCHIVE_DIR = 'output/poems/'
 
 # Weather code descriptions (WMO codes)
 WEATHER_CODE_DESCRIPTIONS = {
