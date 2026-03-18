@@ -95,35 +95,27 @@ def update_index_html():
     # Generate weather cards HTML
     weather_cards_html = generate_weather_cards_html(weather_data)
     
-    # Replace the placeholder weather data section
-    # Find the weather-data div and replace its content
-    start_marker = '<div id="weather-data" class="weather-cards">'
-    end_marker = '</div>\n            </div>\n            \n            <!-- Poem Section -->'
+    # Replace the loading placeholder with actual weather data
+    loading_placeholder = '<div class="loading">Loading weather data...</div>'
     
-    start_idx = html_content.find(start_marker)
-    end_idx = html_content.find(end_marker)
-    
-    if start_idx != -1 and end_idx != -1:
-        # Replace the content between markers
-        new_html = (
-            html_content[:start_idx + len(start_marker)] + 
-            weather_cards_html +
-            html_content[end_idx:]
-        )
-        
-        # Write updated HTML
-        with open('docs/index.html', 'w', encoding='utf-8') as f:
-            f.write(new_html)
-        
-        print(f"✓ Updated docs/index.html with data for {len(weather_data)} locations")
-        
-        # Get forecast date for display
-        first_location = list(weather_data.values())[0]
-        print(f"  Forecast date: {first_location['date']}")
-        print(f"  Generated at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    if loading_placeholder in html_content:
+        new_html = html_content.replace(loading_placeholder, weather_cards_html)
     else:
-        print("❌ Error: Could not find weather data section in HTML")
-
+        # If already replaced, just replace the entire weather-cards div content
+        import re
+        pattern = r'(<div id="weather-data" class="weather-cards">)(.*?)(</div>\s*</div>)'
+        new_html = re.sub(pattern, r'\1' + weather_cards_html + r'\3', html_content, flags=re.DOTALL)
+    
+    # Write updated HTML
+    with open('docs/index.html', 'w', encoding='utf-8') as f:
+        f.write(new_html)
+    
+    print(f"✓ Updated docs/index.html with data for {len(weather_data)} locations")
+    
+    # Get forecast date for display
+    first_location = list(weather_data.values())[0]
+    print(f"  Forecast date: {first_location['date']}")
+    print(f"  Generated at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 if __name__ == "__main__":
     update_index_html()
     print("\n✅ GitHub Pages generation completed!")
