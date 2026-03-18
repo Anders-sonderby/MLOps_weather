@@ -1,24 +1,22 @@
-Generated at: 2026-03-18 14:07:42.755224
+Generated at: 2026-03-18 13:33:29.302251
 Forecast date: 2026-03-19
 
-In Aalborg, drizzle falls like tears,
-A somber mood, with winds that bring fears.
-In Nice, the sky is clear and bright,
-A haven from the gloom, a warm delight.
-Silkeborg's overcast, a grayish hue,
-A melancholy atmosphere, not anew.
-But if I had to choose, I'd flee to Nice's shore,
-Where sunshine waits, and warmth I adore.
-The other two, though lovely in their own right,
-Can't compare to Nice's radiant light.
+English:
+Tomorrow's skies, a varied show,
+Aalborg's drizzle, Nice's sun does glow.
+Silkeborg's clouds, a gentle grey,
+While Nice's clear sky chases the blues away.
+The winds do whisper, a gentle breeze,
+But Nice's warmth beckons, with gentle ease.
+If I were to choose, I'd flee to Nice's shore,
+Where sunshine and warmth, my heart would restore.
 
-I Aalborg falder dråber som tårer,
-En sørgmodig stemning, med vinde der bringer frygt.
-I Nice er himlen klar og lyserød,
-En havn fra skyggen, en varm og behagelig ø.
-Silkeborg er tåget, en grålig farve,
-En melankolsk atmosfære, ikke noget nyt.
-Men hvis jeg skulle vælge, ville jeg flygte til Nices kyst,
-Hvor solskin venter, og varme jeg beundrer.
-De to andre, selvom de er smukke på deres egen måde,
-Kan ikke sammenlignes med Nices strålende lys.
+Dansk:
+I morgen kommer himlen i forskelligt skrud,
+Aalborgs lette regn, Nice solen stråler ud.
+Silkeborgs skyer, en blid gråfarve viser,
+Mens Nice klare himmel, blåstemningen driver bort.
+Vindene hvisker, en blid brise,
+Men Nice varme og sol, kalder med blid kærtegn.
+Hvis jeg skulle vælge, ville jeg flygte til Nice strand,
+Hvor solskin og varme, mit hjerte ville genskabe.
