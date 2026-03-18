@@ -76,7 +76,7 @@ def fetch_weather_data():
     for i, response in enumerate(responses):
         location_name = LOCATIONS[i]["name"]
         
-        print(f"\n {location_name}")
+        print(f"\n📍 {location_name}")
         print(f"   Coordinates: {response.Latitude()}°N {response.Longitude()}°E")
         print(f"   Timezone: {response.Timezone()}")
         
@@ -89,30 +89,35 @@ def fetch_weather_data():
         daily_wind_speed_10m_max = daily.Variables(4).ValuesAsNumpy()
         daily_wind_direction_10m_dominant = daily.Variables(5).ValuesAsNumpy()
         
-        # Create date range
-        daily_data = {
-            "date": pd.date_range(
-                start=pd.to_datetime(daily.Time() + response.UtcOffsetSeconds(), unit="s", utc=True),
-                end=pd.to_datetime(daily.TimeEnd() + response.UtcOffsetSeconds(), unit="s", utc=True),
-                freq=pd.Timedelta(seconds=daily.Interval()),
-                inclusive="left"
-            )
-        }
+        # Get the full date range
+        date_range = pd.date_range(
+            start=pd.to_datetime(daily.Time() + response.UtcOffsetSeconds(), unit="s", utc=True),
+            end=pd.to_datetime(daily.TimeEnd() + response.UtcOffsetSeconds(), unit="s", utc=True),
+            freq=pd.Timedelta(seconds=daily.Interval()),
+            inclusive="left"
+        )
         
-        daily_data["location_name"] = location_name
-        daily_data["weather_code"] = daily_weather_code
-        daily_data["temperature_2m_max"] = daily_temperature_2m_max
-        daily_data["temperature_2m_min"] = daily_temperature_2m_min
-        daily_data["precipitation_sum"] = daily_precipitation_sum
-        daily_data["wind_speed_10m_max"] = daily_wind_speed_10m_max
-        daily_data["wind_direction_10m_dominant"] = daily_wind_direction_10m_dominant
+        # Extract ONLY tomorrow's data (index 1)
+        # Index 0 = today, Index 1 = tomorrow
+        tomorrow_index = 1
+        
+        daily_data = {
+            "date": [date_range[tomorrow_index]],
+            "location_name": [location_name],
+            "weather_code": [daily_weather_code[tomorrow_index]],
+            "temperature_2m_max": [daily_temperature_2m_max[tomorrow_index]],
+            "temperature_2m_min": [daily_temperature_2m_min[tomorrow_index]],
+            "precipitation_sum": [daily_precipitation_sum[tomorrow_index]],
+            "wind_speed_10m_max": [daily_wind_speed_10m_max[tomorrow_index]],
+            "wind_direction_10m_dominant": [daily_wind_direction_10m_dominant[tomorrow_index]]
+        }
         
         daily_dataframe = pd.DataFrame(data=daily_data)
         all_data.append(daily_dataframe)
         
-        print(f"   Temperature: {daily_temperature_2m_min[0]:.1f}°C - {daily_temperature_2m_max[0]:.1f}°C")
-        print(f"   Precipitation: {daily_precipitation_sum[0]:.1f} mm")
-        print(f"   Wind: {daily_wind_speed_10m_max[0]:.1f} km/h")
+        print(f"   Tomorrow's Temperature: {daily_temperature_2m_min[tomorrow_index]:.1f}°C - {daily_temperature_2m_max[tomorrow_index]:.1f}°C")
+        print(f"   Tomorrow's Precipitation: {daily_precipitation_sum[tomorrow_index]:.1f} mm")
+        print(f"   Tomorrow's Wind: {daily_wind_speed_10m_max[tomorrow_index]:.1f} km/h")
     
     # Combine all locations
     combined_df = pd.concat(all_data, ignore_index=True)
@@ -121,7 +126,7 @@ def fetch_weather_data():
 
 def store_in_database(df):
     """Store weather data in SQLite database"""
-    print("\n Storing data in database...")
+    print("\n💾 Storing data in database...")
     
     conn = sqlite3.connect(DATABASE_NAME)
     
@@ -154,7 +159,7 @@ def store_in_database(df):
 def run_fetch_pipeline():
     """Main function to run the fetch and store pipeline"""
     print("="*60)
-    print(" WEATHER DATA FETCH & STORE PIPELINE")
+    print("📥 WEATHER DATA FETCH & STORE PIPELINE")
     print("="*60)
     
     # Step 1: Create database
@@ -167,7 +172,7 @@ def run_fetch_pipeline():
     store_in_database(weather_df)
     
     print("\n✅ Fetch pipeline completed!")
-    print(f" Database: {DATABASE_NAME}\n")
+    print(f"📊 Database: {DATABASE_NAME}\n")
     
     return weather_df
 

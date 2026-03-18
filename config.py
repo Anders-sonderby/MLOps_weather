@@ -30,7 +30,7 @@ WEATHER_VARIABLES = [
     "wind_speed_10m_max",
     "wind_direction_10m_dominant"
 ]
-FORECAST_DAYS = 1
+FORECAST_DAYS = 2  # Get today + tomorrow (we'll use tomorrow's forecast)
 CACHE_EXPIRE_AFTER = 3600  # seconds
 RETRY_ATTEMPTS = 5
 RETRY_BACKOFF_FACTOR = 0.2
