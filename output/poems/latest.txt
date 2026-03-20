@@ -1,20 +1,30 @@
-Generated at: 2026-03-20 07:12:42.871769
+Generated at: 2026-03-20 19:41:49.605697
 Forecast date: 2026-03-21
 
-Tomorrow's skies, a varied hue,
-Aalborg and Silkeborg, gray and true,
-Overcast and calm, with winds so light,
-A gentle day, but lacking delight.
-Nice, on the other hand, wears a rainy face,
-With droplets falling, a soothing pace,
-Though chilly, its charm is hard to resist,
-A visit to Nice, might just be the best twist.
+English:
+Tomorrow's skies, a tale to tell,
+Aalborg and Silkeborg, overcast to dwell,
+Grey and calm, with winds so light,
+While Nice awakens, to rain's delight.
+The French riviera, with showers so fine,
+A contrasting charm, to Denmark's design,
+If sunshine's not your goal, but coziness is key,
+Silkeborg's soft winds, might be the place to be.
+But if you seek, a rainy, romantic day,
+Nice's showers, will surely find their way.
+So pack your bags, and choose with care,
+And let the weather, be your heart's repair.
 
-I morgen himmel, en varieret farve,
-Aalborg og Silkeborg, grå og sandt,
-Overcast og stille, med vinde så let,
-En mild dag, men mangler glæde.
-Nice, på den anden side, bærer en regnfuld maske,
-Med dråber der falder, en beroligende pace,
-Selv om koldt, dens charme er svær at modstå,
-Et besøg i Nice, måske er det bedste valg.
+Dansk:
+I morgendagens himmel, en historie at fortælle,
+Aalborg og Silkeborg, overskyet til at bo,
+Grå og rolig, med vinde så let,
+Mens Nice vågner, til regnens fornøjelse.
+Den franske riviera, med skybrud så fint,
+En kontrasterende charme, til Danmarks design,
+Hvis solskin ikke er dit mål, men hygge er nøglen,
+Silkeborgs blide vinde, måske er stedet at være.
+Men hvis du søger, en regnfuld, romantisk dag,
+Nices skybrud, vil helt sikkert finde sin vej.
+Så pak din bag, og vælg med omhu,
+Og lad vejret, være dit hjertes reparation.
