@@ -95,16 +95,22 @@ def update_index_html():
     # Generate weather cards HTML
     weather_cards_html = generate_weather_cards_html(weather_data)
     
-    # Replace the loading placeholder with actual weather data
-    loading_placeholder = '<div class="loading">Loading weather data...</div>'
-    
-    if loading_placeholder in html_content:
-        new_html = html_content.replace(loading_placeholder, weather_cards_html)
+    # Replace content between markers
+    start_marker = '<!-- WEATHER_START -->'
+    end_marker = '<!-- WEATHER_END -->'
+
+    start_idx = html_content.find(start_marker)
+    end_idx = html_content.find(end_marker)
+
+    if start_idx != -1 and end_idx != -1:
+        new_html = (
+            html_content[:start_idx + len(start_marker)]
+            + weather_cards_html
+            + html_content[end_idx:]
+        )
     else:
-        # If already replaced, just replace the entire weather-cards div content
-        import re
-        pattern = r'(<div id="weather-data" class="weather-cards">)(.*?)(</div>\s*</div>)'
-        new_html = re.sub(pattern, r'\1' + weather_cards_html + r'\3', html_content, flags=re.DOTALL)
+        print("⚠️  Warning: Weather markers not found in index.html")
+        new_html = html_content
     
     # Write updated HTML
     with open('docs/index.html', 'w', encoding='utf-8') as f:
