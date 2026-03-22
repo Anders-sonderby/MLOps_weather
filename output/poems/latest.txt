@@ -1,30 +1,26 @@
-Generated at: 2026-03-21 19:33:48.486035
-Forecast date: 2026-03-22
+Generated at: 2026-03-22 19:35:04.578330
+Forecast date: 2026-03-23
 
 English:
-Tomorrow's skies, a varied hue,
-Aalborg and Silkeborg, overcast anew,
-No rain in sight, just gentle breeze,
-A calm and peaceful day, with warmth to seize.
-Nice, on the other hand, with raindrops gray,
-A melancholy mood, that chases the day,
-But still, its charm, in misty veil, does lie,
-Aalborg's warmth, might be the better buy.
-The Danish towns, with sunshine in their eyes,
-Invite you to visit, with a gentle surprise.
-So pack your bags, and head to Aalborg's shore,
-For a day of calm, and warmth, forever more.
+Tomorrow's skies, a somber hue,
+Overcast in Aalborg, Nice, and Silkeborg too.
+But temperatures dance, a varying beat,
+From chilly Aalborg to Nice's gentle heat.
+The winds they whisper, a gentle breeze,
+In Nice, a soothing caress, if you please.
+Silkeborg's winds, a soft serenade,
+Aalborg's gusts, a wilder, colder shade.
+So if you seek a gentle, sunny day,
+Nice is the place, come what may.
 
 Dansk:
-I morgen, himlen, i varierende farver,
-Aalborg og Silkeborg, overskyet, på ny,
-Ingen regn i sigte, kun en blid brise,
-En rolig og fredelig dag, med varme i vente.
-Nice, på den anden side, med regndråber grå,
-En melankolsk stemning, der jager dagen på flugt,
-Men alligevel, dens charme, i tåget slør, ligger der,
-Aalborgs varme, måske er den bedre handel.
-De danske byer, med solskin i deres øjne,
-Inviterer dig til at besøge, med en blid overraskelse.
-Så pak din bag, og gå til Aalborgs kyst,
-For en dag af ro, og varme, for bestandig.
+I morgen, himlen er dækket af en tung sky,
+Tæt skydække i Aalborg, Nice og Silkeborg også.
+Men temperaturerne danser, en varierende rytme,
+Fra kølige Aalborg til Nices blide varme.
+Vindene hvisker, en blid brise,
+I Nice, en beroligende kærtegn, hvis du beder om det.
+Silkeborgs vinde, en blid serenade,
+Aalborgs gust, en vildere, koldere skygge.
+Så hvis du søger en blid, solrig dag,
+Er Nice stedet, kom hvad der må.
