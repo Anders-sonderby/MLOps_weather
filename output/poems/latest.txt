@@ -1,26 +1,26 @@
-Generated at: 2026-03-22 19:35:04.578330
-Forecast date: 2026-03-23
+Generated at: 2026-03-23 19:52:28.180539
+Forecast date: 2026-03-24
 
 English:
-Tomorrow's skies, a somber hue,
-Overcast in Aalborg, Nice, and Silkeborg too.
-But temperatures dance, a varying beat,
-From chilly Aalborg to Nice's gentle heat.
-The winds they whisper, a gentle breeze,
-In Nice, a soothing caress, if you please.
-Silkeborg's winds, a soft serenade,
-Aalborg's gusts, a wilder, colder shade.
-So if you seek a gentle, sunny day,
-Nice is the place, come what may.
+Tomorrow's forecast, a tale of three towns,
+Aalborg and Silkeborg, with drizzle's gentle frowns.
+Nice, on the other hand, shines bright and clear,
+A sunny haven, without a single tear.
+The winds in Aalborg howl, a wild and mournful sigh,
+While Silkeborg's breeze whispers, as the drizzle passes by.
+Nice's gentle zephyr, a warm and gentle caress,
+Makes it the perfect spot, to soak up happiness.
+So if you're looking, for a day to unwind,
+Nice is the place, to leave your worries behind.
 
 Dansk:
-I morgen, himlen er dækket af en tung sky,
-Tæt skydække i Aalborg, Nice og Silkeborg også.
-Men temperaturerne danser, en varierende rytme,
-Fra kølige Aalborg til Nices blide varme.
-Vindene hvisker, en blid brise,
-I Nice, en beroligende kærtegn, hvis du beder om det.
-Silkeborgs vinde, en blid serenade,
-Aalborgs gust, en vildere, koldere skygge.
-Så hvis du søger en blid, solrig dag,
-Er Nice stedet, kom hvad der må.
+I morgenudsigt, en historie om tre byer,
+Aalborg og Silkeborg, med let regnskyers suk.
+Nice, på den anden side, skinner klart og rent,
+En solrig havn, uden en eneste tåre.
+Vindene i Aalborg hyler, en vild og klagende suk,
+Mens Silkeborgs brise hvisker, mens let regn passerer.
+Nices blide zefyr, en varm og blid kærtegn,
+Gør det til det perfekte sted, at absorbere glæde.
+Så hvis du søger, efter en dag til at slappe af,
+Nice er stedet, hvor du kan lade dine bekymringer bag dig.
