@@ -1,24 +1,22 @@
-Generated at: 2026-03-24 19:55:59.759020
-Forecast date: 2026-03-25
+Generated at: 2026-03-25 19:52:10.739658
+Forecast date: 2026-03-26
 
-In Aalborg's misty veil, rain whispers low,
-While Silkeborg's skies weep tears of gentle flow.
-But far away, in Nice's warm, sunny nest,
-The sun shines bright, and all is at its best.
-The winds may howl, but Nice's charm will prevail,
-A haven from the rain, where hearts can set sail.
-Tomorrow, let us flee to Nice's sweet shore,
-And leave the rain behind, forever more.
-For in its warmth, our spirits will take flight,
-And dance in joy, beneath the sunny light.
+English:
+Tomorrow's skies, a tale of three,
+Aalborg's chill, Nice's warmth, and Silkeborg's gentle plea.
+While Aalborg's winds howl loud and strong,
+Nice basks in calm, with a gentle song.
+Silkeborg's drizzle falls, like tears from above,
+But Nice's sunny heart, is a labor of love.
+If you seek a haven, from the wind and the rain,
+Nice is the place, where love and warmth remain.
 
-I Aalborgs tågefulde slør, hvisker regnen lav,
-Mens Silkeborgs himmel græder tåre af mild flod.
-Men langt borte, i Nices varme, solbeskinnede rede,
-Skinner solen klart, og alt er på sin bedste side.
-Vindene måtte hvine, men Nices charme vil sejre,
-En havn fra regnen, hvor hjertet kan sejle.
-I morgen, lad os flygte til Nices søde kyst,
-Og lade regnen bag os, for evigt mere.
-For i dens varme, vil vor ånd tage flugt,
-Og danse i glæde, under sollysets lys.
+Dansk:
+I morgen himlen, en historie om tre,
+Aalborgs kulde, Nice varme, og Silkeborgs blide bøn.
+Mens Aalborgs vinde brøler højt og stærkt,
+Nyder Nice den rolige, med en blid sang.
+Silkeborgs dryp regn, falder som tårer fra oven,
+Men Nice varme hjerte, er en kærligheds gerning.
+Hvis du søger en havn, fra vinden og regnen,
+Er Nice stedet, hvor kærlighed og varme bliver.
