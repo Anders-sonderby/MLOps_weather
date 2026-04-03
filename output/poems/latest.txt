@@ -1,26 +1,22 @@
-Generated at: 2026-04-02 19:54:04.885429
-Forecast date: 2026-04-03
+Generated at: 2026-04-03 19:47:48.712882
+Forecast date: 2026-04-04
 
 English:
-Tomorrow's skies, a tale to tell,
-Aalborg's rain, a somber spell,
-Silkeborg's drizzle, a gentle hush,
-While Nice's clear sky, a warm and sunny rush.
-The winds do howl, in Aalborg's ear,
-And Silkeborg's breeze, is somewhat drear,
-But Nice's soft zephyr, whispers low and sweet,
-A haven from the rain, where hearts can meet.
-So if you're choosing, where to roam,
-Nice is the winner, of this weather home.
+Tomorrow's skies, a tale of three,
+Aalborg and Silkeborg, rain's symphony,
+Grey and windy, a somber hue,
+While Nice, a haven, shines bright and new.
+The French Riviera, warm and so fair,
+Beckons travelers, without a care,
+Leave the rain behind, and come to play,
+In Nice's sunshine, on this lovely day.
 
-Dansk:
-I morgen himlen, en historie at fortælle,
-Aalborgs regn, en sørgmodig tryl,
-Silkeborgs dryp, en blid susen,
-Mens Nice klar himmel, en varm og solrig rus.
-Vindene hyler, i Aalborgs øre,
-Og Silkeborgs brise, er noget kedeligt,
-Men Nice blide zefyr, hvisker lavt og sødt,
-En havn fra regnen, hvor hjerner kan mødes.
-Så hvis du vælger, hvor du skal vandre,
-Er Nice vinderen, af dette vejr hjem.
+Danish:
+I morgen himlen, en fortælling om tre,
+Aalborg og Silkeborg, regnens symfoni,
+Grå og blæsende, en dyster farve,
+Mens Nice, en havn, skinner klart og ny.
+Den franske riviera, varm og så smuk,
+Kalder på rejsende, uden en bekymring,
+Lad regnen blive, og kom til at lege,
+I Nices solskin, på denne dejlige dag.
