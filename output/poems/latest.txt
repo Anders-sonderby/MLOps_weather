@@ -1,20 +1,22 @@
-Generated at: 2026-04-06 19:56:24.906787
-Forecast date: 2026-04-07
+Generated at: 2026-04-07 20:00:21.900675
+Forecast date: 2026-04-08
 
-In Aalborg and Silkeborg, the skies are bright,
-Mainly clear, with a gentle, crisp light.
-But Nice, oh Nice, with its partly cloudy face,
-Beckons with warmth, a sunny, gentle pace.
-The winds may blow strong in Denmark's air,
-But Nice's soft breeze whispers, "Come, show you care."
-If you seek a haven, free from chill and grey,
-Nice is the place to visit, come what may.
+English:
+Tomorrow's skies, a tale to tell,
+Aalborg and Silkeborg, overcast to dwell,
+Grey and chilly, with winds that sway,
+While Nice, partly cloudy, shines in a brighter way.
+The temperatures rise, in Nice's gentle breeze,
+A haven from the cold, where sunshine teases,
+The French Riviera's charm, a delight to see,
+Makes Nice the perfect spot, for you and me.
 
-I Aalborg og Silkeborg, er himlen lys,
-Hovedsageligt klart, med en blid, kølig glød.
-Men Nice, oh Nice, med sin delvist skyede ansigt,
-Kalder med varme, en solrig, blid gang.
-Vindene må blæse stærkt i Danmarks luft,
-Men Nices blide brise hvisker, "Kom, vis du omhuft."
-Hvis du søger et tilflugtssted, frit fra kulde og gråvejr,
-Så er Nice stedet at besøge, hvad som helst må ske.
+Danish:
+I morgenhimlen, en historie at fortælle,
+Aalborg og Silkeborg, skyet til at bo,
+Grå og kold, med vinde der svinger,
+Mens Nice, delvist skyet, stråler i en lysere vej.
+Temperaturerne stiger, i Nices blide brise,
+En havn fra kulden, hvor sollyset lokker,
+Den Franske Rivieras charme, en fornøjelse at se,
+Gør Nice til det perfekte sted, for dig og mig.
