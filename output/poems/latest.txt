@@ -1,26 +1,22 @@
-Generated at: 2026-04-21 20:11:07.097270
-Forecast date: 2026-04-22
+Generated at: 2026-04-22 20:12:15.496391
+Forecast date: 2026-04-23
 
 English:
-Tomorrow's skies, a tale to tell,
-Aalborg's clear, with winds that swell.
-Nice, on the other hand, wears a gray face,
-With rain that falls, and a gentle pace.
-Silkeborg shines, with a clear blue sky,
-A haven from the rain, as the winds go by.
-If you seek sunshine, Silkeborg's the place,
-Where warmth and joy, will fill your face.
-Leave the rain behind, and come to play,
-In Silkeborg's beauty, on this sunny day.
+Tomorrow's skies, a somber hue,
+Overcast in Aalborg, Nice, and Silkeborg too.
+But temperatures dance, a varied beat,
+Aalborg's chill, Nice's warmth, Silkeborg's gentle heat.
+The winds they whisper, a gentle breeze,
+Nice's calmest, a soothing ease.
+If I had to choose, I'd flee to Nice's shore,
+Where warmth and calm, my heart would adore.
 
 Dansk:
-I morgen himmel, en historie at fortælle,
-Aalborg er klar, med vinde der svulmer.
-Nice, på den anden side, bærer en grå maske,
-Med regn der falder, og en blid pacing.
-Silkeborg skinner, med en klar blå himmel,
-En havn fra regnen, som vinden går forbi.
-Hvis du søger solskin, er Silkeborg stedet,
-Hvor varme og glæde, vil fylde dit ansigt.
-Lad regnen blive tilbage, og kom til at lege,
-I Silkeborgs skønhed, på denne solrige dag.
+I morgens himmel, en dyster farve,
+Tæt skydække i Aalborg, Nice og Silkeborg også.
+Men temperaturerne danser, en varieret rytme,
+Aalborgs kulde, Nices varme, Silkeborgs blide hede.
+Vindene hvisker, en blid brise,
+Nices roligste, en beroligende letsind.
+Hvis jeg skulle vælge, ville jeg flygte til Nices kyst,
+Hvor varme og ro, mit hjerte ville tilbedre.
