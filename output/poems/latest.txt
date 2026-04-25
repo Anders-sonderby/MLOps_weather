@@ -1,20 +1,22 @@
-Generated at: 2026-04-24 19:56:29.713296
-Forecast date: 2026-04-25
+Generated at: 2026-04-25 19:49:39.414477
+Forecast date: 2026-04-26
 
-In Aalborg's gray, overcast skies we roam,
-While Silkeborg's winds whisper a similar tone.
-But Nice, oh Nice, with sunshine's gentle beam,
-Dances in partly cloudy delight, a warmer dream.
-The winds in Denmark howl, a chilly, wild refrain,
-While Nice's soft breeze whispers sweet, summer's gentle strain.
-If tomorrow's choice is mine, I'd flee to Nice's shore,
-Where warmth and sunshine wait, and love forever more.
+English:
+Tomorrow's skies are gray and wide,
+Overcast in Aalborg, Nice, and Silkeborg's side.
+But temperatures tell a different tale,
+Aalborg's chill and Silkeborg's gale.
+Nice shines bright with warmth and gentle breeze,
+A haven from the colder squeeze.
+If you seek a pleasant day to roam,
+Nice is the place to call your home.
 
-I Aalborgs grå, overskyede himmel vandrer vi,
-Mens Silkeborgs vinde hvisker en lignende tone.
-Men Nice, oh Nice, med solens blide stråle,
-Danser i delvis skyet glæde, en varmere drøm.
-Vindene i Danmark hyler, en kold, vild refræn,
-Mens Nices blide brise hvisker sødt, sommers blide stræn.
-Hvis morgendagens valg er mit, ville jeg flygte til Nices kyst,
-Hvor varme og sollys venter, og kærlighed for evigt mere.
+Danish:
+I morgen er himlen grå og vid,
+Tæt skydække i Aalborg, Nice og Silkeborgs område.
+Men temperaturerne fortæller en anden historie,
+Aalborgs kulde og Silkeborgs storm.
+Nice skinner varmt med blid brise,
+En oase fra den kolde klemme.
+Hvis du søger en behagelig dag til at vandre,
+Er Nice det sted at kalde hjem.
