@@ -1,28 +1,22 @@
-Generated at: 2026-04-26 19:51:22.721468
-Forecast date: 2026-04-27
+Generated at: 2026-04-27 20:16:01.358337
+Forecast date: 2026-04-28
 
-In Aalborg, Silkeborg, and Nice so fair,
-The skies are grey, with overcast air.
-But temperatures vary, a wondrous sight,
-From chilly dawns to warm and balmy nights.
-Aalborg and Silkeborg, crisp and cold as stone,
-While Nice awakens, with a gentle tone.
-The winds whisper secrets, as the trees sway free,
-In Nice, the warmth calls, a haven for you and me.
-The forecast beckons, to the French Riviera's shore,
-Where sunshine hides, behind the overcast once more.
-So let us flee, to Nice's mild and lovely breeze,
-And leave the chill, of Denmark's winter ease.
+English:
+Tomorrow's skies are gray and wide,
+Overcast in Aalborg, Nice, and Silkeborg's side.
+But temperatures tell a different tale,
+Aalborg and Silkeborg chilly, while Nice sets sail.
+The wind whispers low in Nice's gentle breeze,
+While Aalborg and Silkeborg's winds bring winter's freeze.
+If you seek a warmer day, with sunshine in your eyes,
+Nice is the place to be, with a gentle, loving surprise.
 
-I Aalborg, Silkeborg og Nice, så smukt og fint,
-Er himlen grå, med overskyet luft, en sælsom syn.
-Men temperaturen varierer, et vidunderligt skue,
-Fra kolde daggry til varme og behagelige nætter, ny.
-Aalborg og Silkeborg, kriske og kolde som sten,
-Mens Nice vågner, med en blid og venlig tone, igen.
-Vindene hvisker hemmeligheder, mens træerne svaier frit,
-I Nice, varmen kalder, en havn for dig og mig, i ly.
-Vejrudsigten kalder, til den franske Rivieras kyst,
-Hvor solskin gemmer sig, bag overskyet, en gang til.
-Så lad os flygte, til Nices blide og elskelige brise,
-Og lade kulden, af Danmarks vinter, glide ud i dvale.
+Dansk:
+I morgen er himlen grå og vid,
+Tæt skydække i Aalborg, Nice og Silkeborgs by.
+Men temperaturerne fortæller en anden historie,
+Aalborg og Silkeborg er kølige, mens Nice sejler med varme.
+Vinden hvisker lavt i Nices blide brise,
+Mens Aalborg og Silkeborgs vinde bringer vinterens kulde.
+Hvis du søger en varm dag, med solskin i dine øjne,
+Er Nice stedet at være, med en blid og kærlig overraskelse.
