@@ -1,22 +1,22 @@
-Generated at: 2026-04-28 20:24:32.148127
-Forecast date: 2026-04-29
+Generated at: 2026-04-29 20:18:07.638918
+Forecast date: 2026-04-30
 
 English:
-Tomorrow's skies, a tale to tell,
-Aalborg's chill, a story to sell.
-Nice awakens, warm and bright,
-A haven from the morning's cold light.
-Silkeborg's clouds, a gentle hue,
-Partly cloudy, with sunshine anew.
-But if I had to choose, I'd flee,
-To Nice, where warmth and joy await me.
+Tomorrow's skies are gray and wide,
+Overcast in Aalborg, Nice, and Silkeborg's side.
+But temperatures dance, a varying beat,
+Aalborg's chill, Nice's warmth can't be beat.
+Silkeborg's winds are gentle, a soothing sigh,
+While Aalborg's gusts may make you want to hide.
+Nice, oh Nice, with temperatures so fine,
+Is the place to be, where warmth and calm entwine.
 
-Dansk:
-I morgen himlen, en historie at fortælle,
-Aalborgs kulde, en historie at sælge.
-Nice vågner, varm og lys,
-En havn fra morgenens kolde lys.
-Silkeborgs skyer, en blid farve,
-Delvist skyet, med sollys på ny.
-Men hvis jeg skulle vælge, ville jeg flygte,
-Til Nice, hvor varme og glæde venter mig.
+Danish:
+I morgen er himlen grå og vid,
+Tæt skydække i Aalborg, Nice og Silkeborgs kant.
+Men temperaturen danser, et varierende slag,
+Aalborgs kulde, Nices varme kan ikke slås.
+Silkeborgs vinde er blide, en beroligende suk,
+Mens Aalborgs gust kan få dig til at gemme dig.
+Nice, oh Nice, med temperaturer så fine,
+Er stedet at være, hvor varme og ro forenes.
