@@ -1,22 +1,26 @@
-Generated at: 2026-04-29 20:18:07.638918
-Forecast date: 2026-04-30
+Generated at: 2026-04-30 20:16:29.064711
+Forecast date: 2026-05-01
 
 English:
-Tomorrow's skies are gray and wide,
-Overcast in Aalborg, Nice, and Silkeborg's side.
-But temperatures dance, a varying beat,
-Aalborg's chill, Nice's warmth can't be beat.
-Silkeborg's winds are gentle, a soothing sigh,
-While Aalborg's gusts may make you want to hide.
-Nice, oh Nice, with temperatures so fine,
-Is the place to be, where warmth and calm entwine.
+Tomorrow's skies, a varied hue,
+Aalborg's partly cloudy, with winds anew.
+Nice shines bright, with clear blue above,
+A gentle breeze, a labor of love.
+Silkeborg's partly cloudy, with temperatures high,
+Aalborg's chill, begins to say goodbye.
+Nice's warmth beckons, a haven from the cold,
+A visit to Nice, a story to be told.
+The French Riviera, a treasure to see,
+Nice's charm, is the place to be.
 
-Danish:
-I morgen er himlen grå og vid,
-Tæt skydække i Aalborg, Nice og Silkeborgs kant.
-Men temperaturen danser, et varierende slag,
-Aalborgs kulde, Nices varme kan ikke slås.
-Silkeborgs vinde er blide, en beroligende suk,
-Mens Aalborgs gust kan få dig til at gemme dig.
-Nice, oh Nice, med temperaturer så fine,
-Er stedet at være, hvor varme og ro forenes.
+Dansk:
+I morgenhimlen, en varieret farve,
+Aalborg er delvist skyet, med vinde i nye former.
+Nice skinner klart, med blå himmel over,
+En mild brise, en kærlighedsfuld stræben.
+Silkeborg er delvist skyet, med høj temperatur,
+Aalborgs kulde, begynder at sige farvel.
+Nice's varme kalder, en havn fra kulden,
+Et besøg i Nice, en historie at fortælle.
+Den franske riviera, en skat at se,
+Nice's charme, er stedet at være.
