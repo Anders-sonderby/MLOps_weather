@@ -1,26 +1,22 @@
-Generated at: 2026-04-30 20:16:29.064711
-Forecast date: 2026-05-01
+Generated at: 2026-05-01 20:10:17.233035
+Forecast date: 2026-05-02
 
 English:
-Tomorrow's skies, a varied hue,
-Aalborg's partly cloudy, with winds anew.
-Nice shines bright, with clear blue above,
-A gentle breeze, a labor of love.
-Silkeborg's partly cloudy, with temperatures high,
-Aalborg's chill, begins to say goodbye.
-Nice's warmth beckons, a haven from the cold,
-A visit to Nice, a story to be told.
-The French Riviera, a treasure to see,
-Nice's charm, is the place to be.
+Tomorrow's forecast, a tale of three towns,
+Aalborg, Nice, and Silkeborg, with weather renowned.
+Overcast skies, a common sight to see,
+But temperatures and winds, a different symphony.
+Aalborg's breeze blows strong, with highs so bright,
+Nice's calm winds whisper, on a gentle night.
+Silkeborg's range is wide, from cool to warm delight,
+Tomorrow, Silkeborg's the place, where sunshine might.
 
-Dansk:
-I morgenhimlen, en varieret farve,
-Aalborg er delvist skyet, med vinde i nye former.
-Nice skinner klart, med blå himmel over,
-En mild brise, en kærlighedsfuld stræben.
-Silkeborg er delvist skyet, med høj temperatur,
-Aalborgs kulde, begynder at sige farvel.
-Nice's varme kalder, en havn fra kulden,
-Et besøg i Nice, en historie at fortælle.
-Den franske riviera, en skat at se,
-Nice's charme, er stedet at være.
+Danish:
+I morgenens vejrprognose, en fortælling om tre byer,
+Aalborg, Nice og Silkeborg, med vejr i berømmelse.
+Tætte skyer, et fælles syn at se,
+Men temperaturer og vinde, en forskellig symfoni.
+Aalborgs blæs blæser stærkt, med højeste så klart,
+Nices stille vinde hvisker, på en stille nat.
+Silkeborgs spænd er bredt, fra koldt til varmt behag,
+I morgen, Silkeborg er stedet, hvor solskin måske lyser.
