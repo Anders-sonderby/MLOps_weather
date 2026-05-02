@@ -1,22 +1,26 @@
-Generated at: 2026-05-01 20:10:17.233035
-Forecast date: 2026-05-02
+Generated at: 2026-05-02 19:57:31.709214
+Forecast date: 2026-05-03
 
 English:
-Tomorrow's forecast, a tale of three towns,
-Aalborg, Nice, and Silkeborg, with weather renowned.
-Overcast skies, a common sight to see,
-But temperatures and winds, a different symphony.
-Aalborg's breeze blows strong, with highs so bright,
-Nice's calm winds whisper, on a gentle night.
-Silkeborg's range is wide, from cool to warm delight,
-Tomorrow, Silkeborg's the place, where sunshine might.
+Tomorrow's skies, a varied hue,
+Aalborg's drizzle, a gentle dew,
+Nice, a haven, with sunshine's might,
+Overcast, yet warm, a delightful sight.
+Silkeborg's rain, a rhythmic beat,
+Dances down, with a soothing treat,
+But if I had to choose, I'd say,
+Nice is the place, to seize the day.
+The warmth and calm, a perfect blend,
+Make Nice the nicest, to visit and amend.
 
-Danish:
-I morgenens vejrprognose, en fortælling om tre byer,
-Aalborg, Nice og Silkeborg, med vejr i berømmelse.
-Tætte skyer, et fælles syn at se,
-Men temperaturer og vinde, en forskellig symfoni.
-Aalborgs blæs blæser stærkt, med højeste så klart,
-Nices stille vinde hvisker, på en stille nat.
-Silkeborgs spænd er bredt, fra koldt til varmt behag,
-I morgen, Silkeborg er stedet, hvor solskin måske lyser.
+Dansk:
+I morgen, himlen i forskelligt skær,
+Aalborgs lette støvregn, en mild dug,
+Nice, et lykkehjul, med solens kraft,
+Beklædt, men varmt, en dejlig syn.
+Silkeborgs regn, en rytmisk tak,
+Danser ned, med en beroligende behandling,
+Men hvis jeg skulle vælge, ville jeg sige,
+Nice er stedet, hvor man skal tage dagen.
+Varmen og roen, en perfekt blanding,
+Gør Nice til det bedste, at besøge og forbedre.
