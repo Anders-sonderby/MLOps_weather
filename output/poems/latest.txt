@@ -1,26 +1,22 @@
-Generated at: 2026-05-07 20:22:12.704905
-Forecast date: 2026-05-08
+Generated at: 2026-05-08 20:13:01.529181
+Forecast date: 2026-05-09
 
 English:
- Tomorrow's skies are gray and wide,
-In Aalborg, Nice, and Silkeborg, side by side.
-The winds do whisper, the temps do play,
-Aalborg's chill, Nice is warm in May.
-Silkeborg's breeze is gentle as can be,
-But Nice's sweet charm is calling me.
-The sun may hide, but Nice's delight,
-Makes it the place to visit, shining bright.
-The overcast may bring a gloomy face,
-But Nice's warmth and calm, take its rightful place.
+Tomorrow's skies are grey and wide,
+Overcast in Aalborg, Nice, and Silkeborg's side.
+But while Aalborg's chill begins the day,
+Nice awakens warm, in a gentle way.
+Silkeborg's breeze is soft, a gentle hue,
+But Nice's warm touch, is the one I'd pursue.
+The sun may hide, but Nice's charm is bright,
+A perfect choice, for a delightful night.
 
 Dansk:
- I morgen er himlen grå og bred,
-I Aalborg, Nice og Silkeborg, side om side.
-Vindene hvisker, temperaturerne leger,
-Aalborg er kold, Nice er varm i maj.
-Silkeborgs brise er blid som kan være,
-Men Nices søde charme kalder på mig.
-Solen må gemme sig, men Nices glæde,
-Gør det til stedet at besøge, strålende bright.
-Det overskyede må bringe en trist ansigt,
-Men Nices varme og ro, tager sin retmæssige plads.
+I morgen er himlen grå og vid,
+Tæt skydække i Aalborg, Nice og Silkeborgs by.
+Men mens Aalborgs kulde starter dagen,
+Vågner Nice varmt, på en blid måde.
+Silkeborgs brise er blid, en mild farve,
+Men Nices varme berøring, er den jeg vil følge.
+Solen må gemme sig, men Nices charme er klar,
+Et perfekt valg, for en dejlig aften.
