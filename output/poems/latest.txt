@@ -1,30 +1,26 @@
-Generated at: 2026-05-10 20:02:11.265973
-Forecast date: 2026-05-11
+Generated at: 2026-05-11 20:50:51.891545
+Forecast date: 2026-05-12
 
 English:
-Tomorrow's skies are grey and wide,
-Overcast in Aalborg, Nice, and Silkeborg's side.
-But temperatures differ, a wondrous sight,
-Aalborg's chill, Silkeborg's bite, Nice shines with delight.
-The winds they howl, a gentle breeze,
-In Silkeborg soft, in Nice, a warm tease.
-Aalborg's cold, Silkeborg's crisp, Nice is the place,
-To bask in warmth, and a sunny, cloudy space.
-So if you're looking for a pleasant day,
-Head to Nice, and drive the blues away.
-The French Riviera calls, with its gentle might,
-A perfect destination, for a lovely night.
+Tomorrow's skies, a tale to tell,
+Aalborg's chill, Nice's warmth to compel,
+Silkeborg's drizzle, a gentle hue,
+While Aalborg's breeze whispers, "Stay with me, anew".
+But Nice's warm arms, a haven from the grey,
+ Beckon us to bask, in a sun-kissed day,
+The winds may howl, but Nice's charm will stay,
+A perfect haven, to while the day away.
+So let us flee, to Nice's sunny shore,
+And leave the gloom, to Aalborg and Silkeborg's door.
 
 Dansk:
-I morgen er himlen grå og vid,
-Tækt i Aalborg, Nice og Silkeborgs side.
-Men temperaturerne forskeller, et vidunderligt syn,
-Aalborgs kulde, Silkeborgs bid, Nice stråler med glæde.
-Vindene hyler, en blid brise,
-I Silkeborg blid, i Nice, en varm lokkesang.
-Aalborgs kold, Silkeborgs knap, Nice er stedet,
-For at nyde varmen, og en solrig, skyet plads.
-Så hvis du søger en behagelig dag,
-Gå til Nice, og jag den nedtrykthed væk.
-Den franske Riviera kalder, med sin blide kraft,
-Et perfekt destination, for en dejlig aften.
+I morgen himlen, en historie at fortælle,
+Aalborgs kulde, Nice varme til at lokke,
+Silkeborgs lette regn, en blid farve,
+Mens Aalborgs brise hvisker, "Bliv hos mig, igen".
+Men Nice varme arme, en havn fra det grå,
+Kalder os til at bade, i en solbeskinnede dag,
+Vindene må hvine, men Nice charme vil blive,
+En perfekt havn, til at tilbringe dagen på.
+Så lad os flygte, til Nice solbeskinnede kyst,
+Og lade skyggen, til Aalborg og Silkeborgs dør.
