@@ -1,20 +1,22 @@
-Generated at: 2026-05-16 20:05:07.949781
-Forecast date: 2026-05-17
+Generated at: 2026-05-17 20:07:49.154559
+Forecast date: 2026-05-18
 
-In Aalborg's misty veil, the drizzle falls,
-A gentle whisper, a soothing call.
-In Nice, the sun hides, but warmth remains,
-A pleasant calm, with no rain's sweet pains.
-Silkeborg's light rain falls, a rhythmic beat,
-But Nice's clear skies and warmth can't be beat.
-Tomorrow, let us flee to Nice's delight,
-Where sunshine whispers, on a gentle night.
+English:
+Tomorrow's skies, a somber hue,
+Overcast in Aalborg, Nice, and Silkeborg too.
+The winds do howl, with varying might,
+Aalborg's gusts strong, Nice's a gentle delight.
+Silkeborg's breeze, a middle ground,
+Temperatures rise, with similar sound.
+But if I had to choose, where to roam,
+Nice's calm winds, make it my heart's home.
 
-I Aalborgs tågede slør, falder duggen ned,
-En blid hvisken, en beroligende kald.
-I Nice, gemmer solen sig, men varmen bliver,
-En behagelig ro, uden regnens søde smerter.
-Silkeborgs lette regn falder, en rytmisk taktfasthed,
-Men Nice' ren luft og varme kan ikke overdøves.
-I morgen, lad os flygte til Nice' fornøjelse,
-Hvor solskinets hvisken, på en mild nat.
+Dansk:
+I morgenhimlen, en dyster farve,
+Tæt skydække over Aalborg, Nice og Silkeborg også.
+Vindene hyler, med varierende styrke,
+Aalborgs gust er stærk, Nices er en blid fornøjelse.
+Silkeborgs brise, en midtergrund,
+Temperaturerne stiger, med samme klang.
+Men hvis jeg skulle vælge, hvor jeg vil vandre,
+Nices rolige vinde, gør det til mit hjertes hjem.
