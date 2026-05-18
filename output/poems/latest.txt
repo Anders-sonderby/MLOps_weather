@@ -1,22 +1,26 @@
-Generated at: 2026-05-17 20:07:49.154559
-Forecast date: 2026-05-18
+Generated at: 2026-05-18 20:41:59.404814
+Forecast date: 2026-05-19
 
 English:
-Tomorrow's skies, a somber hue,
-Overcast in Aalborg, Nice, and Silkeborg too.
-The winds do howl, with varying might,
-Aalborg's gusts strong, Nice's a gentle delight.
-Silkeborg's breeze, a middle ground,
-Temperatures rise, with similar sound.
-But if I had to choose, where to roam,
-Nice's calm winds, make it my heart's home.
+Tomorrow's skies, a canvas wide,
+Aalborg and Nice, side by side, overcast with pride.
+Silkeborg's gentle rain, a soothing serenade,
+A contrast to the dry lands, where sunshine's delayed.
+The winds they whisper, a gentle hush,
+In Nice, a soft caress, a lover's gentle rush.
+Aalborg's breeze, a bit more strong and free,
+But Nice, oh Nice, is where I'd love to be.
+The temperatures rise, a warm and gentle glow,
+Nice, the perfect spot, for a day to flow.
 
 Dansk:
-I morgenhimlen, en dyster farve,
-Tæt skydække over Aalborg, Nice og Silkeborg også.
-Vindene hyler, med varierende styrke,
-Aalborgs gust er stærk, Nices er en blid fornøjelse.
-Silkeborgs brise, en midtergrund,
-Temperaturerne stiger, med samme klang.
-Men hvis jeg skulle vælge, hvor jeg vil vandre,
-Nices rolige vinde, gør det til mit hjertes hjem.
+I morgen himlen, et bredt lærred,
+Aalborg og Nice, side om side, overskyet med stolthed.
+Silkeborgs lette regn, en beroligende serenade,
+En kontrast til de tørre lande, hvor solskinnet er forsinket.
+Vindene de hvisker, en blid susen,
+I Nice, en blid kærlighed, en elskers blide rush.
+Aalborgs brise, en bid mere stærk og fri,
+Men Nice, oh Nice, er hvor jeg elsker at være.
+Temperaturerne stiger, en varm og blid glød,
+Nice, det perfekte sted, for en dag til at flyde.
