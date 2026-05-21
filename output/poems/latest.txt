@@ -1,20 +1,22 @@
-Generated at: 2026-05-20 21:05:35.266413
-Forecast date: 2026-05-21
+Generated at: 2026-05-21 20:54:11.576049
+Forecast date: 2026-05-22
 
-In Aalborg's grey and Silkeborg's haze,
-The sun hides its face in overcast daze,
-While Nice, oh Nice, shines bright and free,
-A haven of sunshine, for you and me.
-The winds may howl in Denmark's skies,
-But Nice's gentle breeze whispers sweet surprise,
-The temperatures rise, a warm delight,
-In Nice, the clear skies shine with pure light.
+English:
+Tomorrow's skies, a tale unfold,
+Aalborg and Silkeborg, overcast to hold,
+While Nice shines bright, with clear blue above,
+A haven from the grey, a labor of love.
+The winds do whisper, a gentle hush,
+In Nice, a soft caress, a gentle rush,
+The temperatures rise, with a warm, sweet sigh,
+Nice, the nicest choice, to touch the sunny sky.
 
-I Aalborgs grå og Silkeborgs dis,
-Gemmer solen sit ansigt i overskyet forvirring,
-Mens Nice, oh Nice, stråler klart og frit,
-En havn af solskin, for dig og mig.
-Vindene må rage i Danmarks himmel,
-Men Nices blide brise hvisker sød overraskelse,
-Temperaturerne stiger, en varm fornøjelse,
-I Nice, stråler den klare himmel med ren lygte.
+Danish:
+I morgen himlen, en historie udfolder,
+Aalborg og Silkeborg, overskyet til at holde,
+Mens Nice stråler klart, med blå himmel over,
+En havn fra det grå, en kærligheds arbejde.
+Vindene hvisker, en blid kun fold,
+I Nice, en blid kærtegn, en sagte rus,
+Temperaturen stiger, med et varmt, sødt suk,
+Nice, det bedste valg, for at røre den solrige himmel.
