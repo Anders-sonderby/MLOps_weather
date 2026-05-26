@@ -1,28 +1,30 @@
-Generated at: 2026-05-25 20:39:51.335774
-Forecast date: 2026-05-26
+Generated at: 2026-05-26 20:58:30.675073
+Forecast date: 2026-05-27
 
-In Aalborg's gray, the winds do sway,
-While Nice basks in sun's warm ray.
-Silkeborg's drizzle falls like tears,
-A melancholy veil that calms the years.
-The temperature dance, a wondrous spin,
-From chilly Aalborg to Nice's warm kin.
-Tomorrow, if you seek a sunny day,
-Nice is the haven, come what may.
-The gentle breeze and clear blue sky,
-Make it the perfect place to wander by.
-So pack your bags and head to Nice's shore,
-And let the sunshine warm your heart once more.
+English:
+Tomorrow's skies are gray and wide,
+Overcast in Aalborg, Nice, and Silkeborg's side.
+But temps do dance, a varied beat,
+From chilly Aalborg to Nice's warm treat.
+The winds do howl, a gentle sway,
+In Nice, a whisper, on a summer's day.
+Silkeborg's breeze is moderate and bright,
+Aalborg's gusts, a bit too strong for delight.
+Nice, oh Nice, with warmth and gentle air,
+Is the place to be, beyond compare.
+So pack your bags, and head to the shore,
+Nice awaits, with a weather to adore.
 
-I Aalborgs grå, blæser vinden frem,
-Mens Nice bugner af solens varme stråler dem.
-Silkeborgs lette regn falder som tårer,
-En melankolsk slør, der beroliger årene.
-Temperaturdansen, en vidunderlig drejning,
-Fra Aalborgs kølige til Nices varme slægtning.
-I morgen, hvis du søger en solrig dag,
-Er Nice havnen, uanset hvad der kommer i vejen.
-Den blide brise og den klare blå himmel,
-Gør det til det perfekte sted at vandre rundt.
-Så pak din taske og tag til Nices kyst,
-Og lad solskinnet varme dit hjerte en gang til.
+Dansk:
+I morgen er himlen grå og vid,
+Tækt med skyer i Aalborg, Nice og Silkeborgs sid.
+Men temperaturerne danser i forskelligt takt,
+Fra kølige Aalborg til Nices varme akt.
+Vindene suser, en blid sving,
+I Nice, en hvisken, på en sommerdag så fin.
+Silkeborgs brise er moderat og klar,
+Aalborgs gust, lidt for stærk til glæde at være.
+Nice, oh Nice, med varme og blid luft,
+Er stedet at være, uden sammenligning tilbage.
+Så pak din bag, og tag til stranden,
+Nice venter, med et vejr at elske.
