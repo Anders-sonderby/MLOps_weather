@@ -1,30 +1,26 @@
-Generated at: 2026-05-26 20:58:30.675073
-Forecast date: 2026-05-27
+Generated at: 2026-05-27 21:05:57.166054
+Forecast date: 2026-05-28
 
 English:
 Tomorrow's skies are gray and wide,
 Overcast in Aalborg, Nice, and Silkeborg's side.
-But temps do dance, a varied beat,
-From chilly Aalborg to Nice's warm treat.
-The winds do howl, a gentle sway,
-In Nice, a whisper, on a summer's day.
-Silkeborg's breeze is moderate and bright,
-Aalborg's gusts, a bit too strong for delight.
-Nice, oh Nice, with warmth and gentle air,
-Is the place to be, beyond compare.
-So pack your bags, and head to the shore,
-Nice awaits, with a weather to adore.
+But temperatures tell a different tale,
+Aalborg's chill begins, while Nice sets sail.
+Silkeborg's range is vast, from cold to bright,
+But Nice's warm breeze whispers a gentle night.
+If you seek sunshine, hidden from the gray,
+Nice is the place to visit, come what may.
+Its mild winds beckon, a sweet serenade,
+To dance beneath the clouds, in a warm parade.
 
 Dansk:
 I morgen er himlen grå og vid,
-Tækt med skyer i Aalborg, Nice og Silkeborgs sid.
-Men temperaturerne danser i forskelligt takt,
-Fra kølige Aalborg til Nices varme akt.
-Vindene suser, en blid sving,
-I Nice, en hvisken, på en sommerdag så fin.
-Silkeborgs brise er moderat og klar,
-Aalborgs gust, lidt for stærk til glæde at være.
-Nice, oh Nice, med varme og blid luft,
-Er stedet at være, uden sammenligning tilbage.
-Så pak din bag, og tag til stranden,
-Nice venter, med et vejr at elske.
+Tækt i Aalborg, Nice og Silkeborgs side.
+Men temperaturerne fortæller en anden historie,
+Aalborgs kulde begynder, mens Nice sejler af sted.
+Silkeborgs spænd er stort, fra koldt til lyst,
+Men Nices varme brise hvisker en mild nat.
+Hvis du søger sol, skjult fra det grå,
+Er Nice stedet at besøge, hvad end må.
+Dens milde vinde kalder, en sød serenade,
+At danse under skyerne, i en varm parade.
