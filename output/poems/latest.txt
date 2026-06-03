@@ -1,20 +1,30 @@
-Generated at: 2026-06-02 21:56:04.174551
-Forecast date: 2026-06-03
+Generated at: 2026-06-03 21:58:16.948999
+Forecast date: 2026-06-04
 
-In Aalborg's drizzle, clouds do play,
-While Nice basks in overcast gray,
-Silkeborg's rain falls hard and strong,
-A trio of weathers, all day long.
-The winds do howl, the temperatures sway,
-But Nice's calm breeze beckons to stay,
-With sunshine hidden, yet warmth in sight,
-It's the nicest place to visit tomorrow's light.
+English:
+Tomorrow's skies, a tale to tell,
+Aalborg and Silkeborg, rain will dwell,
+Nice, a gentle touch, a light caress,
+A warmer haven, where sunbeams dress.
+The winds do howl, in Denmark's air,
+While Nice's breeze whispers, with gentle care,
+The rain may fall, in Aalborg's grey,
+But Nice's mild charm, will brighten the day.
+Silkeborg's showers, will soak the ground,
+But Nice's soft rain, will gently be found,
+Nice, the haven, where hearts can roam,
+And sunshine waits, to call it home.
 
-I Aalborgs dug regn, spiller skyerne,
-Imens Nice bader i et gråt overskyet,
-Silkeborgs regn falder hårdt og stærkt,
-Et værlig trio, hele dagen lang.
-Vindene hyler, temperaturerne svinger,
-Men Nices rolige brise kalder til at blive,
-Med skjult sollys, men varme i sigte,
-Er det den dejligste plads at besøge i morgendagens lys.
+Dansk:
+I morgen, himlen fortæller en historie,
+Aalborg og Silkeborg, regn vil bo,
+Nice, en blid berøring, en let kyss,
+Et varmere tilflugtssted, hvor solstråler klæder.
+Vindene hyler, i Danmarks luft,
+Mens Nices blid brise, hvisker, med blid omsorg,
+Regnen må falde, i Aalborgs grå,
+Men Nices milde charme, vil lyse op dagen.
+Silkeborgs skybrud, vil gennembløde jorden,
+Men Nices blide regn, vil blidt finde sted,
+Nice, det trygge havn, hvor hjerner kan vandre,
+Og solskin venter, for at kalde det hjem.
