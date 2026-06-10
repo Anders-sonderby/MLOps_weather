@@ -1,20 +1,22 @@
-Generated at: 2026-06-09 21:04:41.791012
-Forecast date: 2026-06-10
+Generated at: 2026-06-10 21:26:54.809871
+Forecast date: 2026-06-11
 
-In Aalborg's grey and Silkeborg's rain,
-The skies are weeping, a dismal refrain.
-But Nice, oh Nice, with sunshine bright,
-Beckons us to leave the gloom of night.
-The wind may howl, the rain may pour,
-But in Nice's warmth, our hearts can soar.
-Tomorrow, let us flee the Nordic grey,
-And bask in Nice's sunny, cloudless day.
+English:
+Tomorrow's skies, a varied show,
+Aalborg's drizzle, a gentle flow,
+Nice, a haven, warm and bright,
+Overcast, yet sunshine in sight.
+Silkeborg's rain, a melancholy hue,
+Aalborg's breeze, a whispered clue,
+Nice, the gem, where warmth does stay,
+A perfect haven, come what may.
 
-I Aalborgs grå og Silkeborgs regn,
-Græder himlen, en sørgmodig refrain.
-Men Nice, oh Nice, med solskinslys,
-Kalder os til at forlade mørkets nat.
-Vinden må hyle, regnen må øse,
-Men i Nices varme, kan hjertet lette.
-I morgen, lad os flygte fra nordens grå,
-Og bade i Nices solrige, skyfrie dag.
+Danish:
+I morgen, himlen viser forskellighed,
+Aalborgs dryp, en blid strøm,
+Nice, et paradis, varmt og lyst,
+Beklædt, dog solskin på vej.
+Silkeborgs regn, en melankolsk tone,
+Aalborgs vind, en hvisket hint,
+Nice, den skjulte perle, hvor varme bliver,
+Et perfekt tilflugtssted, uanset vejr.
