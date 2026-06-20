@@ -1,24 +1,22 @@
-Generated at: 2026-06-19 20:41:59.030737
-Forecast date: 2026-06-20
+Generated at: 2026-06-20 20:22:31.168047
+Forecast date: 2026-06-21
 
-In Aalborg and Silkeborg, the skies are gray,
-Overcast with winds that blow and sway,
-While Nice basks in sunshine bright and bold,
-A clear sky gem, where hearts can unfold.
-The temperatures rise, but Nice stands tall,
-A haven from the windy, cloudy call,
-Its gentle breeze a sweet serenade,
-Inviting all to its sunny shade.
-So if you seek a day of delight,
-Head to Nice, where sunshine shines so bright.
+English:
+Tomorrow's skies, a somber hue,
+Overcast in Aalborg, Nice, and Silkeborg too.
+But temperatures dance, a different beat,
+Aalborg's chill, Nice's warmth can't be beat.
+Silkeborg's gentle breeze, a soothing sigh,
+Nice's calm winds whisper, as the sun shines high.
+If you seek a haven, with warmth and gentle air,
+Nice is the haven, beyond compare.
 
-I Aalborg og Silkeborg er himlen grå,
-Tæt og overskyet med vinde, der fører os bort,
-Mens Nice soler sig i klart og varmt lys,
-En klar himmelpearl, hvor hjertet kan udvikle sig.
-Temperaturerne stiger, men Nice står stærkt,
-En havn fra den blæsende, skyede kald,
-Dens blide brise en sød serenade,
-Inviterer alle til sin solrige skygge.
-Så hvis du søger en dag med glæde,
-Gå til Nice, hvor solskinnet skinner så klart.
+Danish:
+I morgendagens himmel, en dyster farve,
+Tækt i Aalborg, Nice og Silkeborg også.
+Men temperaturerne danser, i et andet tempo,
+Aalborgs kulde, Nices varme kan ikke slås.
+Silkeborgs blide brise, en beroligende suk,
+Nices stille vinde hvisker, mens solen skinner højt.
+Hvis du søger en havn, med varme og blid luft,
+Nice er havnen, uden sammenligning.
