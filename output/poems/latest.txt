@@ -1,22 +1,26 @@
-Generated at: 2026-07-01 20:51:22.671055
-Forecast date: 2026-07-02
+Generated at: 2026-07-02 20:24:47.227299
+Forecast date: 2026-07-03
 
 English:
-Tomorrow's skies, a varied show,
-Aalborg's rain, a gentle flow,
-Nice shines bright, with sun's warm light,
-A haven from the northern night.
-Silkeborg's drizzle, a melancholy hue,
-While Nice's clear sky, our hearts anew.
-The French Riviera, a treasure rare,
-Beckons us, with its sunny air.
+Tomorrow's skies, a tale unfold,
+Aalborg's drizzle, young and cold.
+Nice, a haven, warm and bright,
+Partly cloudy, a wondrous sight.
+Silkeborg's light rain, a gentle hue,
+Compared to Nice, a different view.
+If sunshine beckons, Nice is the place,
+To bask in warmth and a gentle pace.
+Leave the rain behind, and let's take flight,
+To Nice, where tomorrow shines with delight.
 
-Danish:
-I morgendagens himmel, en varieret skue,
-Aalborgs regn, en blid strøm,
-Nice skinner klart, med solens varme lys,
-En tilflugt fra den nordlige nat.
-Silkeborgs dug, en melankolsk farve,
-Mens Nice's klare himmel, vores hjerte fornyer.
-Den franske Riviera, en sjælden skat,
-Kalder os, med sin solrige luft.
+Dansk:
+I morgen himlen, en historie fortælles,
+Aalborgs dug, ung og kold.
+Nice, en havn, varm og lys,
+Delvis skyet, et vidunderligt syn.
+Silkeborgs lette regn, en blid farve,
+Sammenlignet med Nice, et andet syn.
+Hvis solen kalder, er Nice stedet,
+For at bade i varme og en blid gang.
+Lad regnen blive tilbage, og lad os tage flygt,
+Til Nice, hvor i morgen skinner med glæde.
