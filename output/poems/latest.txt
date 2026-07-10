@@ -1,24 +1,22 @@
-Generated at: 2026-07-09 20:53:37.767726
-Forecast date: 2026-07-10
+Generated at: 2026-07-10 20:39:00.755180
+Forecast date: 2026-07-11
 
-As morning dawns, three cities shine,
-Aalborg, Nice, and Silkeborg, in weather's design.
-While Aalborg and Silkeborg bask in clear blue skies,
-Nice wears a veil of clouds, with partly cloudy sighs.
-The temperatures dance, a gentle, warm delight,
-But Nice's warmth stands out, a treasure to excite.
-If I could choose, I'd visit Nice tomorrow's day,
-To bask in its gentle heat, in a lovely, French way.
-The breeze whispers low, a gentle, soothing sound,
-In Nice, my heart would find its peaceful ground.
+English:
+Tomorrow's forecast, a tale to tell,
+Aalborg, Nice, and Silkeborg, all with skies to compel.
+Overcast, yet warm, with winds that gently sway,
+Each city unique, in its own special way.
+Nice shines bright, with temperatures high and fair,
+Aalborg's breeze whispers secrets, beyond compare.
+Silkeborg's range, from cool to hot, a surprise to see,
+But Nice, oh Nice, is where I'd want to be.
 
-Da morgen gryer, skinner tre byer,
-Aalborg, Nice og Silkeborg, i vejrernes design.
-Mens Aalborg og Silkeborg bader i klart blå himmel,
-Bærer Nice en slør af skyer, med delvist skyet suk.
-Temperaturerne danser, en mild, varm fornøjelse,
-Men Nices varme står frem, en skat til at begejstre.
-Hvis jeg kunne vælge, ville jeg besøge Nice i morgen,
-For at bade i dens milde varme, på en dejlig, fransk måde.
-Brisen hvisker lavt, en blid, beroligende lyd,
-I Nice ville mit hjerte finde sin fredelige grund.
+Dansk:
+I morgendagens vejrudsigter, en historie at fortælle,
+Aalborg, Nice og Silkeborg, alle med himmel til at lokke.
+Tæt skydække, men varmt, med vinde der svinger blidt,
+Hver by unik, på sin egen særlige måde.
+Nice skinner klart, med temperaturer høje og dejlige,
+Aalborgs brise hvisker hemmeligheder, uden sammenligning.
+Silkeborgs spænd, fra koldt til varmt, en overraskelse at se,
+Men Nice, åh Nice, er hvor jeg helst ville være.
