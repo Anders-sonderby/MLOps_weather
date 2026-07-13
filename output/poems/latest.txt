@@ -1,22 +1,22 @@
-Generated at: 2026-07-12 20:08:31.705234
-Forecast date: 2026-07-13
+Generated at: 2026-07-13 20:21:17.707560
+Forecast date: 2026-07-14
 
 English:
-Tomorrow's skies, a tale to tell,
-Aalborg and Nice, overcast, yet swell,
-Silkeborg's drizzle falls, a gentle hush,
-A contrast to the others, in a soothing rush.
-Nice shines bright, with temperatures high,
-Aalborg's breeze whispers by, as the sun passes by,
-Silkeborg's misty veil, a mysterious sight,
-But Nice's warm charm, will be the nicest delight.
+Tomorrow's skies are gray and wide,
+Overcast in Aalborg, Nice, and Silkeborg's side.
+But temperatures dance, a varied beat,
+Aalborg and Silkeborg chill, while Nice skips to a warmer treat.
+The winds whisper low, a gentle hush,
+In Nice, a soothing breeze, a calm rush.
+The sun may hide, but Nice's warmth shines through,
+A haven from the cooler duo, a place to visit anew.
 
-Dansk:
-I morgendagens himmel, en historie at fortælle,
-Aalborg og Nice, tæt skydækning, dog smuk,
-Silkeborgs lette dryp, en blid susen,
-En kontrast til de andre, i en beroligende bølge.
-Nice stråler varmt, med høje temperaturer,
-Aalborgs brise hvisker forbi, mens solen passerer,
-Silkeborgs tågehalo, en mystisk syn,
-Men Nices varme charme, vil være den dejligste oplevelse.
+Danish:
+I morgen er himlen grå og vid,
+Tækt i Aalborg, Nice og Silkeborgs side.
+Men temperaturerne danser, et varieret slag,
+Aalborg og Silkeborg er kølige, mens Nice springer til en varmere behag.
+Vindene hvisker lavt, en blid susen,
+I Nice, en beroligende brise, en rolig rus.
+Solen må gemme sig, men Nices varme skinner igennem,
+Et tilflugtssted fra de køligere to, et sted at besøge i morgen.
