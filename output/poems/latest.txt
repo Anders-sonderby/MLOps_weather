@@ -1,26 +1,22 @@
-Generated at: 2026-07-15 20:16:43.966638
-Forecast date: 2026-07-16
+Generated at: 2026-07-16 20:07:48.309138
+Forecast date: 2026-07-17
 
 English:
-Tomorrow's skies, a cloudy hue,
-In Aalborg, Nice, and Silkeborg, too.
-Similar shades, yet temperatures sway,
-Aalborg and Silkeborg, cooler days.
-Nice, the warmest, with a gentle breeze,
-A haven from the wind's wild tease.
-If you seek a calm and sunny nest,
-Nice is the place to find your rest.
-The French Riviera's charm, it will unfold,
-A perfect day, with warmth to hold.
+Tomorrow's skies, a tale unfold,
+Aalborg's rain, a gentle hold,
+Nice, a haven, partly cloudy bright,
+A haven from the rain's cold light.
+Silkeborg's deluge, heavy as can be,
+A contrast to Nice's serenity,
+The winds may blow, but one place stands tall,
+Nice, the gem, where sunshine beckons all.
 
-Dansk:
-I morgen, himlen er dækket af skyer,
-I Aalborg, Nice og Silkeborg, det samme syn.
-Lignende farver, men temperaturerne svinger,
-Aalborg og Silkeborg, koldere dage bringer.
-Nice, den varmeste, med en blid brise,
-Et tilflugtssted fra vindens vilde latter.
-Hvis du søger en rolig og solrig rede,
-Er Nice stedet, hvor du finder din fred.
-Franske Rivieras charme, den vil udvikle sig,
-En perfekt dag, med varme at omfavne.
+Danish:
+I morgendagens himmel, en fortælling udfolder,
+Aalborgs regn, et blidt greb,
+Nice, en havn, delvist skyet lys,
+En havn fra regnens kolde lys.
+Silkeborgs skybrud, tungt som kan være,
+En kontrast til Nices ro,
+Vindene må blæse, men én plaats står højt,
+Nice, juvelen, hvor solskin kalder alle.
