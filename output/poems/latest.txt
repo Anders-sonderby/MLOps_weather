@@ -1,22 +1,26 @@
-Generated at: 2026-07-16 20:07:48.309138
-Forecast date: 2026-07-17
+Generated at: 2026-07-17 20:12:08.092164
+Forecast date: 2026-07-18
 
 English:
-Tomorrow's skies, a tale unfold,
-Aalborg's rain, a gentle hold,
-Nice, a haven, partly cloudy bright,
-A haven from the rain's cold light.
-Silkeborg's deluge, heavy as can be,
-A contrast to Nice's serenity,
-The winds may blow, but one place stands tall,
-Nice, the gem, where sunshine beckons all.
+Tomorrow's skies, a tale of three,
+Aalborg and Silkeborg, overcast and free,
+While Nice shines bright, with sunshine's gentle beam,
+A haven from the clouds, a warmer dream.
+The winds may whisper secrets, in Denmark's ear,
+But Nice's gentle breeze, is calmer, clearer.
+If you seek a haven, from the cloudy grey,
+Nice is the destination, for a sunny day.
+So pack your bags, and head to the shore,
+Where warmth and sunshine, await you evermore.
 
-Danish:
-I morgendagens himmel, en fortælling udfolder,
-Aalborgs regn, et blidt greb,
-Nice, en havn, delvist skyet lys,
-En havn fra regnens kolde lys.
-Silkeborgs skybrud, tungt som kan være,
-En kontrast til Nices ro,
-Vindene må blæse, men én plaats står højt,
-Nice, juvelen, hvor solskin kalder alle.
+Dansk:
+I morgen himlen, en historie om tre,
+Aalborg og Silkeborg, overskyet og fri,
+Mens Nice skinner klart, med solens blide stråle,
+En havn fra skyerne, en varmere drøm.
+Vindene må hviske hemmeligheder, i Danmarks øre,
+Men Nice's blide brise, er roligere, klarere.
+Hvis du søger en havn, fra det skyggefulde grå,
+Er Nice destinationen, for en solrig dag.
+Så pak din bag, og tag til stranden,
+Hvor varme og solskin, venter dig mere end nogensinde.
