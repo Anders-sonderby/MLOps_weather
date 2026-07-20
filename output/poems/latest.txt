@@ -1,30 +1,22 @@
-Generated at: 2026-07-19 20:10:19.040480
-Forecast date: 2026-07-20
+Generated at: 2026-07-20 20:35:51.485338
+Forecast date: 2026-07-21
 
 English:
 Tomorrow's skies, a tale to tell,
-Aalborg and Silkeborg, overcast to dwell,
-Grey clouds gather, winds do blow,
-While Nice awakens, with sunshine to show.
-The French Riviera, a warmth to share,
-A haven from the Danish clouds that spare,
-No rain to spoil, just gentle breeze,
-Nice is the place, where sunshine freezes.
-The temperature rises, with a gentle grin,
-A perfect day, to soak up the sun within.
-So pack your bags, and head to Nice's shore,
-And leave the grey skies, forever more.
+Aalborg's overcast, with winds that swell.
+Silkeborg's similar, with clouds so gray,
+But Nice, oh Nice, shines bright in May.
+The French Riviera's charm, a warmth to share,
+Partly cloudy, with a gentle breeze to spare.
+While Denmark's winds howl, Nice's sun will play,
+Making it the perfect spot to visit tomorrow's day.
 
 Dansk:
 I morgen himlen, en historie at fortælle,
-Aalborg og Silkeborg, overskyet til at bo,
-Grå skyer samler sig, vinden blæser,
-Mens Nice vågner, med solskin til at dele.
-Den franske riviera, en varme at dele,
-En havn fra de danske skyer, der spar,
-Ingen regn til at spolere, kun en blid brise,
-Nice er stedet, hvor solskinnet fryser.
-Temperaturen stiger, med et mildt smil,
-En perfekt dag, til at suge solen ind i sig.
-Så pak din taske, og gå til Nices kyst,
-Og lad de grå skyer, for altid mere.
+Aalborg er overskyet, med vinde der svulmer.
+Silkeborg ligner, med skyer så grå,
+Men Nice, oh Nice, skinner bright i maj.
+Den franske riviera's charme, en varme at dele,
+Delvis skyet, med en blid brise at spare.
+Mens Danmarks vinde hyler, Nices sol vil lege,
+Gør det til det perfekte sted at besøge i morgen dag.
