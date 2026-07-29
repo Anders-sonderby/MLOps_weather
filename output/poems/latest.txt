@@ -1,26 +1,22 @@
-Generated at: 2026-07-28 20:21:32.405329
-Forecast date: 2026-07-29
+Generated at: 2026-07-29 20:15:14.024241
+Forecast date: 2026-07-30
 
 English:
 Tomorrow's skies, a tale of three,
 Aalborg and Silkeborg, overcast, you see,
 While Nice shines bright, with clear blue above,
-A haven of sunshine, a labor of love.
-The winds whisper low, in Aalborg's ear,
-But Nice's gentle breeze, is beyond compare,
-Silkeborg's overcast, a somber hue,
-Nice is the destination, for me and you.
-The temperatures rise, in Nice's warm light,
-A perfect day, to bask in delight.
+A haven from the clouds, a labor of love.
+The winds may blow, in Aalborg's gentle sway,
+But Nice's soft breeze, will chase the blues away,
+Silkeborg's warmth, may tempt, with temperatures high,
+But Nice's clear skies, will catch the eye.
 
-Dansk:
-I morgenhimlen, en fortælling om tre,
+Danish:
+I morgen himmel, en historie om tre,
 Aalborg og Silkeborg, overskyet, ser du,
 Mens Nice skinner klart, med blå himmel over,
-En oase af solskin, en kærlighedsarbejde.
-Vindene hvisker lavt, i Aalborgs øre,
-Men Nices blide brise, er uden sammenligning,
-Silkeborgs overskyet, en dystert farve,
-Nice er destinationen, for mig og dig.
-Temperaturen stiger, i Nices varme lys,
-En perfekt dag, til at nyde i fryd.
+En havn fra skyerne, en kærlighedens arbejde.
+Vindene må blæse, i Aalborgs blide sving,
+Men Nices blide brise, vil jage blues væk,
+Silkeborgs varme, må friste, med høje temperaturer,
+Men Nices klare himmel, vil fange øjet.
