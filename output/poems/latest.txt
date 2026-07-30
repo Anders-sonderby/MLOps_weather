@@ -1,22 +1,26 @@
-Generated at: 2026-07-29 20:15:14.024241
-Forecast date: 2026-07-30
+Generated at: 2026-07-30 20:21:07.926600
+Forecast date: 2026-07-31
 
 English:
-Tomorrow's skies, a tale of three,
-Aalborg and Silkeborg, overcast, you see,
-While Nice shines bright, with clear blue above,
-A haven from the clouds, a labor of love.
-The winds may blow, in Aalborg's gentle sway,
-But Nice's soft breeze, will chase the blues away,
-Silkeborg's warmth, may tempt, with temperatures high,
-But Nice's clear skies, will catch the eye.
+Tomorrow's skies, a tale to tell,
+Aalborg and Silkeborg, overcast dwell,
+Grey and cool, with winds that sway,
+A far cry from Nice's sunny day.
+The French Riviera shines so bright,
+Partly cloudy, with a warm delight,
+No rain in sight, just gentle breeze,
+Nice is the place to visit with ease.
+The temperature rises, a perfect score,
+Nice is the winner, forever more.
 
-Danish:
-I morgen himmel, en historie om tre,
-Aalborg og Silkeborg, overskyet, ser du,
-Mens Nice skinner klart, med blå himmel over,
-En havn fra skyerne, en kærlighedens arbejde.
-Vindene må blæse, i Aalborgs blide sving,
-Men Nices blide brise, vil jage blues væk,
-Silkeborgs varme, må friste, med høje temperaturer,
-Men Nices klare himmel, vil fange øjet.
+Dansk:
+I morgen himlen, en historie at fortælle,
+Aalborg og Silkeborg, overskyet hjem,
+Grå og kold, med vinde der svinger,
+Langt fra Nices solrige dag.
+Den franske Riviera skinner så bright,
+Delvist skyet, med en varm fornøjelse,
+Ingen regn i sigte, kun en blid brise,
+Nice er stedet at besøge med letthed.
+Temperaturen stiger, en perfekt score,
+Nice er vinderen, for altid mere.
