@@ -1,30 +1,20 @@
-Generated at: 2026-08-09 19:41:20.249551
-Forecast date: 2026-08-10
+Generated at: 2026-08-10 19:57:23.515849
+Forecast date: 2026-08-11
 
-English:
-Tomorrow's skies, a tale of three,
-Aalborg's drizzle, a gentle plea,
-Silkeborg's heavy, a somber hue,
-While Nice shines bright, with a sky of blue.
-The winds do howl, in Aalborg's sway,
-But Nice's breeze whispers, a gentle way,
-Silkeborg's rain, a melancholy beat,
-Nice's sunshine calls, a treat to greet.
-Leave the grey, and fly to the south,
-Where warmth and joy, will be your mouth.
-Nice, the winner, of this weather's test,
-A perfect day, to find your best.
+In Aalborg's grey, the winds do sway,
+While Silkeborg's skies wear a similar grey.
+Nice, however, shines with warmth and light,
+A haven from the overcast's cold night.
+The temperatures dance, a gentle breeze,
+In Nice, it's summer's warmth that teases.
+The Danish towns, though chilly, still delight,
+But Nice's charm wins, a sunny, warm sight.
 
-Dansk:
-I morgen himlen, en historie om tre,
-Aalborgs lette regn, en mild bøn,
-Silkeborgs kraftige, en sørgmodig farve,
-Mens Nice skinner klar, med en himmel af blå.
-Vindene hyler, i Aalborgs vej,
-Men Nice's brise hvisker, en blid vej,
-Silkeborgs regn, en melankolsk rytme,
-Nice's solskin kalder, en behagelig velkommen.
-Forlad det grå, og fly til syd,
-Hvor varme og glæde, vil være din mund.
-Nice, vinderen, af dette vejrs prøve,
-En perfekt dag, til at finde dit bedste.
+I Aalborgs grå, blæser vindene frem,
+Mens Silkeborgs himmel bærer en lignende grå farve.
+Nice skinner imidlertid varmt og lyst,
+En havn fra overskyets kolde nat.
+Temperaturerne danser, en let brise,
+I Nice er det sommerens varme, der lokker.
+De danske byer, selvom de er kolde, har dog charme,
+Men Nices skønhed vinder, en varm og solrig syn.
